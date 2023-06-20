@@ -1,0 +1,6 @@
+king:5360
+callmebutcher:5260
+man:73
+superman:999
+test:80
+man2:160
